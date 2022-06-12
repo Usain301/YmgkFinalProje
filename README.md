@@ -1,5 +1,6 @@
 <P>Hi there 👋<p>
-  <p text="align:center">Please scan the Barcode or Click </p>
+  <p text="align:center">Please scan the Barcode or click the picture
+ </p>
 <p>
 
   <img style="border:30px;" src="https://i.hizliresim.com/hrq7qdy.png" width="150" height="233">
