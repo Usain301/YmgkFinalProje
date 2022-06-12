@@ -1,5 +1,5 @@
 <P>Hi there 👋<p>
-  <p text="align:center">Please scan the Barcode or click the picture
+  <p text="align:center">Please scan the Barcode or  click the Google play logo picture
  </p>
 <p>
 
