@@ -3,7 +3,7 @@
 <p>
 
   <img style="border:30px;" src="https://i.hizliresim.com/hrq7qdy.png" width="200" height="283">
-  <a src"">                    </a>
+  <a src="">                    </a>
   
   
   <a href="https://play.google.com/store/apps/dev?id=6434216887703327919" target="_blank">
