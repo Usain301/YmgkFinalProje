@@ -10,7 +10,7 @@
     <br>
  
   
-  <a target="_blank" href="https://play.google.com/store/apps/dev?id=6434216887703327919" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=360" width="120" height="150">
+  <a  href="https://play.google.com/store/apps/dev?id=6434216887703327919" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732208.png?w=360" width="120" height="150">
   </a>
   </p>
   
