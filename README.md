@@ -2,6 +2,7 @@
   <h3 text="align:center">Please scan the Barcode or  click the Google play logo picture
  </h3>
 <p>
+  <div align="center">
 
   <img style="border:30px;" src="https://i.hizliresim.com/hrq7qdy.png" width="110" height="183">
  
@@ -10,3 +11,4 @@
   </a>
   </p>
   
+  </div>
